@@ -13,7 +13,7 @@ To compile and run this project, you need:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Abr-ahamis/Neo-Flashcard.git
    cd flashneo
    ```
 
